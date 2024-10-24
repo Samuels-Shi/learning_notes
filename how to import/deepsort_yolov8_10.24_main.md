@@ -1,4 +1,4 @@
-source:https://github.com/computervisioneng/object-tracking-yolov8-deep-sort/blob/master/tracker.py
+source: https://github.com/computervisioneng/object-tracking-yolov8-deep-sort/blob/master/main.py
 
 ```
 import os
