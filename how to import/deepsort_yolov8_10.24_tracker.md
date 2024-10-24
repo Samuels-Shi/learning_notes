@@ -1,3 +1,6 @@
+source:https://github.com/computervisioneng/object-tracking-yolov8-deep-sort/blob/master/tracker.py
+
+```
 from deep_sort.deep_sort.tracker import Tracker as DeepSortTracker
 from deep_sort.tools import generate_detections as gdet
 from deep_sort.deep_sort import nn_matching
@@ -63,3 +66,4 @@ class Track:
     def __init__(self, id, bbox):
         self.track_id = id
         self.bbox = bbox
+```
