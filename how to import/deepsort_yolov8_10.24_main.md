@@ -1,3 +1,6 @@
+source:https://github.com/computervisioneng/object-tracking-yolov8-deep-sort/blob/master/tracker.py
+
+```
 import os
 import random
 
@@ -54,3 +57,4 @@ while ret:
 cap.release()
 cap_out.release()
 cv2.destroyAllWindows()
+```
